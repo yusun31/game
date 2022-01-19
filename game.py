@@ -1,5 +1,7 @@
 import random
 
+# 수정하는 중
+
 answer = random.randrange(1, 101)
 print(answer)
 
